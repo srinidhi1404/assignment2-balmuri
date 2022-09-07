@@ -29,3 +29,15 @@ One of the way to get from Heathrow to Madame Tussauds is by *train*:
 
 
 [Click here to know more information about me](./AboutMe.md)
+
+***
+## Best Cities
+
+The following tables contains the best cities in my opinion.
+
+|Name|Best Locations|Amount of Time|
+|----|---|---|
+|Oia ,Santorini|The entire city is the best place to visit|2 days|
+|Jaipur, India|Hawa Mahal|1 day|
+|Bali, Indonesia|Ubud|3 days|
+|Barcelona, Spain| Entire city|3 days|
