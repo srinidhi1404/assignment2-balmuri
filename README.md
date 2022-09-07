@@ -46,7 +46,7 @@ The following tables contains the best cities in my opinion.
 ## Pithy Quotes 
 
 >"Whatever you need will just happen if you keep your energies exuberant and focused"- *Sadguru* <br>
-<br>
+
 >"Only compare yourself to your previous self" - *Unknown* 
 
 ***
@@ -78,4 +78,4 @@ The following tables contains the best cities in my opinion.
   
 </svg>
 ```
-[Link for the source of above snippet](https://css-tricks.com/snippets/svg/svg-patterns/)
+[Click here for the source of above snippet](https://css-tricks.com/snippets/svg/svg-patterns/)
