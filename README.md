@@ -20,7 +20,7 @@ One of the way to get from Heathrow to Madame Tussauds is by *train*:
 2. Paddington Underground Station to Baker Street Underground Station
 3. Walk for a minute you'll reach Madame Tussauds Museum. <br>
 
-### Top sights around Madame Tussauds London
+#### Top sights around Madame Tussauds London
 * The British Museum
 * The National Gallery
 * Buckingham Palace
