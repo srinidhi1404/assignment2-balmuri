@@ -45,6 +45,6 @@ The following tables contains the best cities in my opinion.
 ---
 ## Pithy Quotes 
 
->"Whatever you need will just happen if you keep your energies exuberant and focused"- *Sadguru*
+>"Whatever you need will just happen if you keep your energies exuberant and focused"- *Sadguru* <br>
 >"Only compare yourself to your previous self" - *Unknown*
 
