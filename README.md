@@ -41,3 +41,10 @@ The following tables contains the best cities in my opinion.
 |Jaipur, India|Hawa Mahal|1 day|
 |Bali, Indonesia|Ubud|3 days|
 |Barcelona, Spain| Entire city|3 days|
+
+---
+## Pithy Quotes 
+
+>"Whatever you need will just happen if you keep your energies exuberant and focused"- *Sadguru*
+>"Only compare yourself to your previous self" - *Unknown*
+
