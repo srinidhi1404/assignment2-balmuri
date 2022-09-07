@@ -26,3 +26,6 @@ Top sights in Madame Tussauds London
 * Buckingham Palace
 * Hyde Park
 * ZSL London Zoo 
+
+
+[Click here to know more information about me](./AboutMe.md)
